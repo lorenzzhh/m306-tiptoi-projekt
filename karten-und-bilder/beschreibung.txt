@@ -1,0 +1,10 @@
+Wir drucken alle diese Bilder aus und verstecken sie irgendwo im Raum.
+
+Der Ablauf könnte so aussehen:
+- Man drückt mit dem Tiptoi auf den Start. Dort wird gesagt, der nächste Cache befindet sich in der nähe des Lavabos.
+- Beim Lavabo finden wir den geheimen Code. Wir drücken drauf und es wird gesagt, wir sollen zum Beamer gehen.
+- Dort ist der Tresor und wir müssen den geheimen Code eingeben. Es wird gesagt, dass wir einen Schlüssel gefunden haben und in den hinteren Rechten Ecken gehen sollten.
+- Im Ecken ist die Schatzkiste und wir können den Schatz öffnen.
+
+
+
